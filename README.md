@@ -25,8 +25,8 @@
 
 1. Установите Python 3.x
 2. Установите зависимости:
-   ```bash
-   pip install requests
+```bash
+pip install requests
 ```
 3. Запустите приложение:
 
