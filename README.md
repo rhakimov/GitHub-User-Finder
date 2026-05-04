@@ -31,7 +31,7 @@
 3. Запустите приложение:
 
 ```bash
-git clone https://github.com/твой-логин/weather-diary.git
-cd weather-diary
+git clone https://github.com/rhakimov/GitHub-User-Finder.git
+cd GitHub-User-Finder
 python main.py
 ```
